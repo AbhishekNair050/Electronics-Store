@@ -22,7 +22,7 @@ Welcome to the E-Commerce and Inventory Management System repository. This Pytho
 
 3. **Running the Project**: Run the project by executing main.py:
      ```bash
-      python main.py
+     python main.py
      ```
 4. **Exploring the System**: Follow the on-screen instructions to create user accounts, explore products, add items to the shopping cart, and more.
 
