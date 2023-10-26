@@ -1,0 +1,37 @@
+Model,Brand,Price,Quantity,Category
+F21,Samsung,8000,10,Mobile
+F31,Samsung,10000,10,Mobile
+F41,Samsung,15000,10,Mobile
+F62,Samsung,25000,10,Mobile
+15,Apple,130000,10,Mobile
+14,Apple,90000,10,Mobile
+12,Apple,70000,9,Mobile
+X,Apple,80000,10,Mobile
+Note 7,Redmi,7000,10,Mobile
+Note 8,Redmi,8000,10,Mobile
+Note 9,Redmi,10000,10,Mobile
+Note 10,Redmi,15000,10,Mobile
+4k 32 inch,Samsung,80000,10,Television
+4k 40 inch,Samsung,100000,10,Television
+4k 55 inch,Samsung,115000,10,Television
+8k 64 inch,Samsung,225000,10,Television
+Bravia 32 inch,Sony,80000,10,Television
+Bravia 40 inch,Sony,100000,10,Television
+Bravia 55 inch,Sony,115000,10,Television
+Bravia 64 inch,Sony,225000,10,Television
+SM 32 inch,Vu,80000,10,Television
+SM 40 inch,Vu,100000,10,Television
+SM 55 inch,Vu,115000,10,Television
+SM 64 inch,Vu,225000,10,Television
+Xplorer,Boat,500,10,Watch
+Flash,Boat,1000,10,Watch
+Enigma,Boat,1500,10,Watch
+Storm,Boat,2500,10,Watch
+Reflex 2.0,Fastrack,500,10,Watch
+Reflex Beat,Fastrack,1000,10,Watch
+Reflex Invoke,Fastrack,1500,10,Watch
+Reflex 3.0,Fastrack,2500,10,Watch
+Series 5,Apple,15000,10,Watch
+Series 6,Apple,25000,10,Watch
+Series 7,Apple,35000,10,Watch
+Series 8,Apple,50000,10,Watch
