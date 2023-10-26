@@ -304,7 +304,6 @@ class LinkedList:  # Linked List class
 class ShoppingCart:  # Shopping cart class
     def __init__(self):  # Constructor
         self.cart = []
-        self.head = None
 
     def add_to_cart(self, product):  # Add to cart
         self.cart.append(product)
