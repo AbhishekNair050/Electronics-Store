@@ -5,7 +5,6 @@ Welcome to the E-Commerce and Inventory Management System repository. This Pytho
 ## File Structure
 
 - `main.py`: The main Python script that runs the E-Commerce and Inventory Management System. It handles user interactions, product management, shopping cart functionality, and more.
-- `pwinput.py`: A utility script for securely inputting passwords, enhancing user account security.
 - `user.json`: This JSON file stores user account information. Users can create accounts, log in, and manage their details. When users make purchases, their order history is updated in this file.
 - `admin.json`: This JSON file is used for administrative logins. Admins can add, remove, and update products in the inventory.
 - `products.csv`: A CSV file that stores the product inventory. The inventory is categorized into mobiles, televisions, and watches, with details such as model, brand, price, and quantity. Any updates made by administrators are reflected in this file.
