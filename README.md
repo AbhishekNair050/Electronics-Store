@@ -20,6 +20,12 @@ Welcome to the E-Commerce and Inventory Management System repository. This Pytho
    pip install tabulate
    ```
 
+2. **Pwinput Library Installation**: Install the `pwinput` library, which is used for hiding the password for added privacy. You can install it using `pip`:
+
+   ```bash
+   pip install pwinput
+   ```
+
 3. **Running the Project**: Run the project by executing main.py:
      ```bash
      python main.py
